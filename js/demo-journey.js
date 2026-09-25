@@ -57,7 +57,7 @@
       apply: function () {
         if (heroLede) {
           heroLede.textContent =
-            'Residential electrical, panels, and EV charger circuits. Across Riverside and the Inland Empire. Brandon looks at the job first and puts the price in writing.';
+            'Residential electrical, panels, and EV charger circuits in Riverside. Brandon looks at the job first and puts the price in writing.';
         }
       }
     },
